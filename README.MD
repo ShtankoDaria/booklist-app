@@ -1,1 +1,1 @@
-
+This application is developped followed the video tutorial https://www.youtube.com/watch?v=JaMCxVWtW58 and allows user to add books to the list by Author, Title, Isbn and to remove books from the list
