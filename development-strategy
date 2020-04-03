@@ -1,0 +1,42 @@
+# Book-List: development strategy
+
+Building the application to store books with title, author name and isbn number
+
+## 0. Setup
+
+* `index.html` file with basic structure
+
+## 1. DOM
+
+* Create all DOM elements
+* Download external styles `bootswatch` and `fontAwesome
+
+## 2. User Story: Add Book and Display
+
+A user should be able to add books and display them in a list
+
+* Handlers: Create functions and methods to add books and display them
+* Listeners: add event listener to display added books
+
+## 4. User Story: Delete book
+
+A user can delete a book from the list and storage
+
+* Listeners: add event listener for delete action
+* Handlers: Create functions to delete books
+
+## 5. User Story: Validation and Alerts
+
+A user can see validation alerts.
+
+* Handlers: Create handler in a class to show alerts for the results of actions
+* Listeners: show alerts for added or removed books
+
+## 6. User Story: Storage
+
+A user can store books to a local storage
+
+* Create a class for storing all the added books
+
+
+
